@@ -1,3 +1,6 @@
+// The upgrade consisted of loading the prompts and questions for the activities
+// from .txt files to make it easier to add or remove items without modifying the code.
+
 using System;
 
 class Program
